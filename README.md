@@ -1,12 +1,9 @@
-# Student Information System
+Student Information System
 
-A simple Java program that collects and displays basic student information.
+A simple Java console application that collects and displays basic student information, including name, age, major, GPA, and credit hours.
 
-### Built with
-- Java
-- IntelliJ IDEA
+The project focuses on practicing user input, variables, data types, conditional statements, loops, and input validation.
 
-### Version
-v1.0
+Concepts Practiced
 
-> First version — built while learning Java fundamentals.
+Scanner · Variables · Data Types · if/else · while · Logical Operators · Input Validation
